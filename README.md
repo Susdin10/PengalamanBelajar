@@ -1,14 +1,13 @@
 # PengalamanBelajar
 Repository ini berisi pengalamanku belajar di Dicoding
 
-  14 Juni 2023
-  
-  Belajar kelas memulai program dengan java.(Progres21%)
-  
-  *Belajar tentang apa itu java dan alasan menggunakannya.
-  
-  *Belajar tools yang dapat digunakan untuk menjalankan pemrograman java.
+ 14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  
   15 Juni 2021
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
